@@ -24,6 +24,9 @@ profit leakage — and quantify the recovery opportunity.
 - **20% discount cap** identified as break-even threshold 
   via Excel Goal Seek modeling
 
+  <img width="1425" height="800" alt="image" src="https://github.com/user-attachments/assets/80a0d0a2-c5f9-4c07-bc8b-cac4c6b27316" />
+
+
 ---
 
 ## Tools & Technologies
