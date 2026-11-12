@@ -7,7 +7,7 @@
 A retail company was experiencing inconsistent profitability 
 despite growing overall revenue. The objective was to identify 
 which products, regions, and discount patterns were causing 
-profit leakage — and quantify the recovery opportunity.
+profit leakage and quantify the recovery opportunity.
 
 ---
 
@@ -20,7 +20,7 @@ profit leakage — and quantify the recovery opportunity.
 - Orders with discounts **above 20%** produce negative profit 
   **73% of the time**
 - Revenue grew **29.5% YoY** but profit margin simultaneously 
-  compressed — growth without profitability
+  compressed growth without profitability
 - **20% discount cap** identified as break-even threshold 
   via Excel Goal Seek modeling
 
